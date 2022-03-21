@@ -22,8 +22,7 @@ API : https://openweathermap.org/
 
 
 <br>
-## Live 📍:
-https://matekoz.github.io/ToDoList/
+
 
 ## License 🔱
 Open source.
