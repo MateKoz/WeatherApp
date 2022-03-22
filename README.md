@@ -21,7 +21,7 @@ You can read data such as: temperature, humidity, type of weather
 API : https://openweathermap.org/
 
 ## Live 📍:
-https://matekoz.github.io/ToDoList/
+https://matekoz.github.io/WeatherApp/
 
 ## License 🔱
 Open source.
