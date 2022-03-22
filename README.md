@@ -3,7 +3,7 @@ Weather App
 <br>
 </h1>
 <h3>Description:</h3>
-<h6>
+
 
 A simple web application that allows you to read the weather data of a selected city.<br><br>
 You can read data such as: temperature, humidity, type of weather
